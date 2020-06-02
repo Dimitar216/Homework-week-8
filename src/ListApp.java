@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-//TO DO: First name first char is Uppercase, same applies for Last name as does for first name and address
 public class ListApp {
 
     public static final Scanner scanner = new Scanner(System.in);
